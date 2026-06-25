@@ -1,3 +1,4 @@
+### 1. `README.md` for `range_task.py`
 # Range Checker
 
 A simple Python script to verify if a user-provided integer falls within the range of 1 to 99.
